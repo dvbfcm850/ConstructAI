@@ -2,8 +2,6 @@
 
 ## Aptos Move Smart Contract Architecture Development Assistant
 
-![ConstructAI Logo](https://path-to-your-logo.png)
-
 ## Project Overview
 
 ConstructAI is a smart contract architecture development assistant designed for Aptos Move ecosystem developers. It aims to address the challenges faced by Aptos Move developers by providing an intelligent architecture design workflow, helping developers systematically adopt ecosystem best practices, and offering smart assistance tools to accelerate development and improve code quality.
