@@ -33,8 +33,8 @@ ConstructAI implements the MCP server in Go language, connecting to the powerful
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-organization/constructai.git
-cd constructai
+git clone https://github.com/dvbfcm850/ConstructAI.git
+cd ConstructAI
 
 # Install dependencies
 go mod tidy
